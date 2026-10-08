@@ -1,0 +1,35 @@
+{
+  "product": "DataFocus OT Flash",
+  "version": "0.1.0-test",
+  "revision": "r53",
+  "tag": "v0.1.0-test-r53",
+  "platform": "CentOS 7 x86_64",
+  "prerelease": true,
+  "archive": {
+    "name": "OT_Flash_0.1.0-test_CentOS7_X86_64-r53.tar.gz",
+    "bytes": 7191482492,
+    "sha256": "e045423b2744e0f28c3f46b649aa20724ea8d79686d5d96e8ed7c48b4e699abd"
+  },
+  "parts": [
+    {
+      "name": "OT_Flash_0.1.0-test_CentOS7_X86_64-r53.tar.gz.part-01",
+      "bytes": 1992294400,
+      "sha256": "8b5120550197e2e48f3c1a135d7cf64f471c2041699a18519e5af64735201e28"
+    },
+    {
+      "name": "OT_Flash_0.1.0-test_CentOS7_X86_64-r53.tar.gz.part-02",
+      "bytes": 1992294400,
+      "sha256": "c8f305f6596815a78f8503f2ad3191939f16a44da8d39246a6a238a58d3f528f"
+    },
+    {
+      "name": "OT_Flash_0.1.0-test_CentOS7_X86_64-r53.tar.gz.part-03",
+      "bytes": 1992294400,
+      "sha256": "4689fb0f8a869e07f9ae330aef1f34fd9201cfc04abf6caf9d606bcf52830110"
+    },
+    {
+      "name": "OT_Flash_0.1.0-test_CentOS7_X86_64-r53.tar.gz.part-04",
+      "bytes": 1214599292,
+      "sha256": "51c9d9ff36accbc74c69636c9f995da3cdd4389ff00d0d0cacd99af0cd061936"
+    }
+  ]
+}

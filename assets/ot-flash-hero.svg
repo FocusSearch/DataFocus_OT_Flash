@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">DataFocus OT Flash</title>
+  <desc id="desc">An agent knowledge backend connecting structured data, documents, and ontology.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b32"/><stop offset="1" stop-color="#162e46"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#75e6ca"/><stop offset="1" stop-color="#78aaff"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1280" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+  <circle cx="1160" cy="20" r="230" fill="#588fff" opacity=".06"/>
+  <rect x="64" y="58" width="136" height="30" rx="15" fill="#75e6ca" fill-opacity=".12"/>
+  <text x="132" y="79" text-anchor="middle" fill="#9bf2df" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">DATAFOCUS</text>
+  <text x="62" y="163" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="700" letter-spacing="-2">OT Flash</text>
+  <rect x="64" y="188" width="78" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="239" fill="#dbe8fa" font-family="Arial,Helvetica,sans-serif" font-size="25">Knowledge infrastructure for agents.</text>
+  <text x="64" y="276" fill="#a8bbd5" font-family="Arial,Helvetica,sans-serif" font-size="18">Structured data + documents + ontology</text>
+  <text x="64" y="366" fill="#9bf2df" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600">DORIS DATA PLANE</text>
+  <text x="250" y="366" fill="#adbcda" font-family="Arial,Helvetica,sans-serif" font-size="15">SELF-HOSTED</text>
+  <text x="391" y="366" fill="#adbcda" font-family="Arial,Helvetica,sans-serif" font-size="15">OFFLINE PACKAGE</text>
+  <g stroke="#82b9de" stroke-width="2" fill="none" opacity=".7"><path d="M838 152L989 218 838 298M989 218H1112"/></g>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <rect x="722" y="101" width="170" height="100" rx="18" fill="#22374c" stroke="#426883"/>
+    <text x="746" y="140" fill="#8ce9d1" font-size="13" font-weight="700">STRUCTURED</text><text x="746" y="174" fill="#f0f5ff" font-size="23" font-weight="700">Data</text>
+    <rect x="722" y="245" width="170" height="100" rx="18" fill="#22374c" stroke="#426883"/>
+    <text x="746" y="284" fill="#a7bdff" font-size="13" font-weight="700">UNSTRUCTURED</text><text x="746" y="318" fill="#f0f5ff" font-size="23" font-weight="700">Documents</text>
+    <rect x="937" y="166" width="170" height="103" rx="18" fill="#203d4a" stroke="#75d8c0"/>
+    <text x="961" y="205" fill="#9bf2df" font-size="13" font-weight="700">SEMANTIC LAYER</text><text x="961" y="241" fill="#ffffff" font-size="23" font-weight="700">Ontology</text>
+    <circle cx="1162" cy="218" r="38" fill="#75e6ca"/>
+    <path d="M1153 198L1173 216H1161L1170 238 1149 217H1161Z" fill="#142a3a"/>
+    <text x="1133" y="284" fill="#dbe8fa" font-size="17" font-weight="700">Agent</text>
+  </g>
+</svg>
